@@ -44,6 +44,12 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 ### Educational Games
 - [Awsome Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Awesome list of educational games.
 
+### Resilience & Social-Emotional Learning
+- [AQ Kids — Resilience Quiz](https://ordinarymantrying.com/tools/aq-kids/) - Free quiz that helps parents assess their child's resilience (AQ). Generates a personalized PDF report with a parent's letter. No sign-up needed.
+
+### Resilience & Social-Emotional Learning
+- [AQ Kids — Resilience Quiz](https://ordinarymantrying.com/tools/aq-kids/) - Free quiz that helps parents assess their child's resilience (AQ). Generates a personalized PDF report with a letter from the parent. No sign-up needed.
+
 ## Courses for Parents
 
 - [Advanced Parenting Skills](https://alison.com/course/advanced-parenting-skills) - Free Course on developing mentoring mindsets.
