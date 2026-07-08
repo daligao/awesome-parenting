@@ -47,8 +47,8 @@ Welcome to the Parenting Resources Awesome List! Discover a curated collection o
 ### Resilience & Social-Emotional Learning
 - [AQ Kids — Resilience Quiz](https://ordinarymantrying.com/tools/aq-kids/) - Free quiz that helps parents assess their child's resilience (AQ). Generates a personalized PDF report with a parent's letter. No sign-up needed.
 
-### Resilience & Social-Emotional Learning
-- [AQ Kids — Resilience Quiz](https://ordinarymantrying.com/tools/aq-kids/) - Free quiz that helps parents assess their child's resilience (AQ). Generates a personalized PDF report with a letter from the parent. No sign-up needed.
+### Family Planning & Organization
+- [Family Trip Planner](https://ordinarymantrying.com/tools/family-schedule.html) - Free browser-based itinerary planner for family trips. Add members, build day-by-day schedules with time slots and photos, then save as image or print. No login, no data stored — everything stays in your browser.
 
 ## Courses for Parents
 
